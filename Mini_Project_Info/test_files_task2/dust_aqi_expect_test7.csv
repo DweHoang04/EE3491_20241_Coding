@@ -1,0 +1,8 @@
+id,time,value,aqi,pollution
+1,2024:10:29 17:00:00,461.5,456,Extremely hazardous
+1,2024:10:29 18:00:00,343.2,393,Hazardous
+1,2024:10:29 19:00:00,350.9,400,Extremely hazardous
+1,2024:10:29 20:00:00,350.0,400,Hazardous
+1,2024:10:29 21:00:00,351.4,400,Extremely hazardous
+1,2024:10:29 22:00:00,362.3,406,Extremely hazardous
+1,2024:10:29 23:00:00,379.7,415,Extremely hazardous
